@@ -28,8 +28,8 @@ To get started with Phase 1:
 The schedule is split into six weeks, and each week is split into the two streams (Software Development and Data Science).
 
 All the Microsoft Learn modules listed below can be found in these Microsoft Learn collections for easy access and completion tracking:
-- [Software Development collection]()
-- [Data Science collection]()
+- [Software Development collection](https://learn.microsoft.com/en-nz/collections/6peka7t3gq7don)
+- [Data Science collection](https://learn.microsoft.com/en-nz/collections/jqgrc3t60xgygk)
 
 ## Week 1
 
@@ -39,8 +39,9 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 2. [Write your first C# code](https://learn.microsoft.com/training/modules/csharp-write-first?wt.mc_id=studentamb_319033)
 3. [Introduction to .NET](https://learn.microsoft.com/training/modules/dotnet-introduction?wt.mc_id=studentamb_319033)
 4. [Create a new .NET project and work with dependencies](https://learn.microsoft.com/training/modules/dotnet-dependencies?wt.mc_id=studentamb_319033)
-5. [Interactively debug .NET apps with the Visual Studio Code debugger](https://learn.microsoft.com/training/modules/dotnet-debug?wt.mc_id=studentamb_319033)
-6. [Create a web API with ASP.NET Core controllers](https://learn.microsoft.com/training/modules/build-web-api-aspnet-core?wt.mc_id=studentamb_319033)
+5. [Introduction to .NET web development with ASP.NET Core](https://learn.microsoft.com/en-nz/training/modules/introduction-to-aspnet-core/?ns-enrollment-type=Collection&ns-enrollment-id=6peka7t3gq7don)
+6. [Build your first ASP.NET Core web app](https://learn.microsoft.com/en-nz/training/modules/build-your-first-aspnet-core-web-app/?ns-enrollment-type=Collection&ns-enrollment-id=6peka7t3gq7don)
+7. [Customize ASP.NET Core behavior with middleware](https://learn.microsoft.com/en-nz/training/modules/aspnetcore-middleware/?ns-enrollment-type=Collection&ns-enrollment-id=6peka7t3gq7don)
 
 #### Data Science
 
@@ -54,12 +55,11 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 #### Software Development
 
 1. [Get started with web development using Visual Studio Code](https://learn.microsoft.com/training/modules/get-started-with-web-development?wt.mc_id=studentamb_319033)
-2. [Learn the basics of web accessibility](https://learn.microsoft.com/training/modules/web-development-101-accessibility?wt.mc_id=studentamb_319033)
-3. [Introduction to Node.js](https://learn.microsoft.com/training/modules/intro-to-nodejs?wt.mc_id=studentamb_319033)
-4. [Create a new Node.js project and work with dependencies](https://learn.microsoft.com/training/modules/create-nodejs-project-dependencies?wt.mc_id=studentamb_319033)
-5. [Get started with React](https://learn.microsoft.com/training/modules/react-get-started?wt.mc_id=studentamb_319033)
-6. [Working with data and properties in React components](https://learn.microsoft.com/training/modules/react-work-with-components-and-data?wt.mc_id=studentamb_319033)
-7. [React state and events](https://learn.microsoft.com/training/modules/react-states-events?wt.mc_id=studentamb_319033)
+2. [Get started with React](https://learn.microsoft.com/training/modules/react-get-started?wt.mc_id=studentamb_319033)
+3. [Working with data and properties in React components](https://learn.microsoft.com/training/modules/react-work-with-components-and-data?wt.mc_id=studentamb_319033)
+4. [React state and events](https://learn.microsoft.com/training/modules/react-states-events?wt.mc_id=studentamb_319033)
+
+Other resource: [JavaScript Tutorial](https://javascript.info) Recommended topics: JavaScript Fundamentals, Code Quality, Objects: the basics, Data types
 
 #### Data Science
 
@@ -72,12 +72,12 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 ## Week 3
 
 #### Software Development
+Note: This week does not contain Microsoft Modules. Please go through the tutorial on TypesCript
 
-1. [Get started with TypeScript](https://learn.microsoft.com/training/modules/typescript-get-started?wt.mc_id=studentamb_319033)
-2. [Declare variable types in TypeScript](https://learn.microsoft.com/training/modules/typescript-declare-variable-types?wt.mc_id=studentamb_319033)
-3. [Implement interfaces in TypeScript](https://learn.microsoft.com/training/modules/typescript-implement-interfaces?wt.mc_id=studentamb_319033)
-4. [Develop typed functions by using TypeScript](https://learn.microsoft.com/training/modules/typescript-develop-typed-functions?wt.mc_id=studentamb_319033)
-5. [Declare and instantiate classes in TypeScript](https://learn.microsoft.com/training/modules/typescript-declare-instantiate-classes?wt.mc_id=studentamb_319033)
+1. [TypeScript for the New Programmer](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
+2. [TypeScript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+
+Try [TypeScript Tool](https://www.typescriptlang.org/) 
 
 #### Data Science
 
@@ -89,12 +89,13 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 ## Week 4
 
 #### Software Development
+Note: This week does not contain Microsoft Modules. Please go through the tutorial on TypesCript
+1. [The Basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
+2. [Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
+3. [More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html)
+4. [Object Types](https://www.typescriptlang.org/docs/handbook/2/objects.html)
+5. [Classes](https://www.typescriptlang.org/docs/handbook/2/classes.html)
 
-1. [Define generics in TypeScript](https://learn.microsoft.com/training/modules/typescript-generics?wt.mc_id=studentamb_319033)
-2. [Access external libraries from TypeScript](https://learn.microsoft.com/training/modules/typescript-work-external-libraries?wt.mc_id=studentamb_319033)
-3. [Organize code using TypeScript namespaces](https://learn.microsoft.com/training/modules/typescript-namespaces-organize-code?wt.mc_id=studentamb_319033)
-
-Note: This week contains fewer modules than others, so we recommend you use this opportunity to practice the Software Development skills you've learned so far using other resources you find.
 
 #### Data Science
 
@@ -111,7 +112,6 @@ Note: This week contains fewer modules than others, so we recommend you use this
 2. [Sort and filter results in T-SQL](https://learn.microsoft.com/training/modules/sort-filter-queries?wt.mc_id=studentamb_319033)
 3. [Combine multiple tables with JOINs in T-SQL](https://learn.microsoft.com/training/modules/query-multiple-tables-with-joins?wt.mc_id=studentamb_319033)
 4. [Modify data with T-SQL](https://learn.microsoft.com/training/modules/modify-data-with-transact-sql?wt.mc_id=studentamb_319033)
-5. [Persist and retrieve relational data by using Entity Framework Core](https://learn.microsoft.com/training/modules/persist-data-ef-core/?wt.mc_id=studentamb_319033)
 
 #### Data Science
 
@@ -125,11 +125,12 @@ Note: This week contains fewer modules than others, so we recommend you use this
 
 #### Software Development
 
-1. [Build a web API with minimal API, ASP.NET Core, and .NET](https://learn.microsoft.com/training/modules/build-web-api-minimal-api?wt.mc_id=studentamb_319033)
-2. [Build a containerized web application with Docker](https://learn.microsoft.com/training/modules/intro-to-containers?wt.mc_id=studentamb_319033)
+1. [Persist and retrieve relational data by using Entity Framework Core](https://learn.microsoft.com/training/modules/persist-data-ef-core/?wt.mc_id=studentamb_319033)
+2. [Build a web API with minimal API, ASP.NET Core, and .NET](https://learn.microsoft.com/training/modules/build-web-api-minimal-api?wt.mc_id=studentamb_319033)
 3. [Build continuous integration (CI) workflows by using GitHub Actions](https://learn.microsoft.com/training/modules/github-actions-ci?wt.mc_id=studentamb_319033)
 4. [Introduction to software testing concepts](https://learn.microsoft.com/training/modules/visual-studio-test-concepts?wt.mc_id=studentamb_319033)
-5. [Use a database with minimal API, Entity Framework Core, and ASP.NET Core](https://learn.microsoft.com/training/modules/build-web-api-minimal-database/?wt.mc_id=studentamb_319033)
+5. [Build a containerized web application with Docker](https://learn.microsoft.com/training/modules/intro-to-containers?wt.mc_id=studentamb_319033)
+6. [Host a web application with Azure App Service](https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/?wt.mc_id=studentamb_319033)
 
 #### Data Science
 
@@ -143,8 +144,8 @@ To complete Phase 1 and submit evidence of your completion:
 1. Complete all the Microsoft Learn modules listed in the schedule above
 2. Download all the key tools listed below
 3. Log in to your Microsoft account and take a full-page screenshot of the Microsoft Learn collection that you completed (please complete all the modules if you haven't already).
-- [Software Development collection](https://learn.microsoft.com/en-nz/users/msa-nz/collections/4m8nhoyrwj1555)
-- [Data Science collection](https://learn.microsoft.com/en-nz/users/msa-nz/collections/n2kyanp2128q50)
+- [Software Development collection](https://learn.microsoft.com/en-nz/collections/6peka7t3gq7don)
+- [Data Science collection](https://learn.microsoft.com/en-nz/collections/jqgrc3t60xgygk)
 - Note: To take a full-page screenshot, you can use [this Chrome extension](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj) or if you are using Edge or Firefox, you can press Ctrl+Shift+S and then select "Capture/Save full page".
 4. Submit this form by 11:59pm, Sunday 18 May: [MSA 2025 Phase 1 Submission]()
 
