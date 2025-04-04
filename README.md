@@ -4,7 +4,7 @@ Welcome to Phase 1 of the 2025 MSA programme! The programme is split into two st
 
 The expected workload for Phase 1 of each stream is 3-4 hours per week. As such, we recommend that you use the schedule below to spread out your workload and not try to complete everything in one week.
 
-Phase 2 will build upon the knowledge for Phase 1 of each stream, and placements will be either in Data Science and Software Development. As such, we recommend that you follow one stream only in order to manage your time effectively and build your knowledge and skills within one stream as much as you can in order to stand out to employers.
+Phase 2 will build upon the knowledge for Phase 1 of each stream, and placements will be either in Data Science or Software Development. As such, we recommend that you follow one stream only in order to manage your time effectively and build your knowledge and skills within one stream as much as you can in order to stand out to employers.
 
 Contents:
 - [Getting Started](https://github.com/NZMSA/2025-Phase-1#getting-started)
