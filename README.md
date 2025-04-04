@@ -1,6 +1,6 @@
 # 2025 Phase 1
 
-Welcome to Phase 1 of the 2025 MSA programme! The programme is split into two streams (Software Development and Data Science), and Phase 1 consists of Microsoft Learn modules for each stream. 
+Welcome to Phase 1 of the 2025 MSA programme! The programme is split into two streams (Data Science and Software Development), and Phase 1 consists of Microsoft Learn modules for each stream. 
 
 The expected workload for Phase 1 of each stream is 3-4 hours per week. As such, we recommend that you use the schedule below to spread out your workload and not try to complete everything in one week.
 
@@ -28,10 +28,17 @@ To get started with Phase 1:
 The schedule is split into six weeks, and each week is split into the two streams (Software Development and Data Science).
 
 All the Microsoft Learn modules listed below can be found in these Microsoft Learn collections for easy access and completion tracking:
-- [Software Development collection](https://learn.microsoft.com/en-nz/collections/6peka7t3gq7don)
 - [Data Science collection](https://learn.microsoft.com/en-nz/collections/jqgrc3t60xgygk)
+- [Software Development collection](https://learn.microsoft.com/en-nz/collections/6peka7t3gq7don)
+
 
 ## Week 1
+
+#### Data Science
+
+1. [Get started building with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/?wt.mc_id=studentamb_319033)  
+2. [Get data in Power BI](https://learn.microsoft.com/training/modules/get-data?wt.mc_id=studentamb_319033)  
+3. [Clean, transform, and load data in Power BI](https://learn.microsoft.com/training/modules/clean-data-power-bi?wt.mc_id=studentamb_319033)
 
 #### Software Development
 
@@ -43,14 +50,15 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 6. [Build your first ASP.NET Core web app](https://learn.microsoft.com/en-nz/training/modules/build-your-first-aspnet-core-web-app/?ns-enrollment-type=Collection&ns-enrollment-id=6peka7t3gq7don)
 7. [Customize ASP.NET Core behavior with middleware](https://learn.microsoft.com/en-nz/training/modules/aspnetcore-middleware/?ns-enrollment-type=Collection&ns-enrollment-id=6peka7t3gq7don)
 
-#### Data Science
-
-1. [Get started building with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/?wt.mc_id=studentamb_319033)  
-2. [Get data in Power BI](https://learn.microsoft.com/training/modules/get-data?wt.mc_id=studentamb_319033)  
-3. [Clean, transform, and load data in Power BI](https://learn.microsoft.com/training/modules/clean-data-power-bi?wt.mc_id=studentamb_319033)
-
 
 ## Week 2
+
+#### Data Science
+
+1. [Fundamental AI Concepts](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/?wt.mc_id=studentamb_319033)  
+2. [Explore and analyze data with Python](https://learn.microsoft.com/training/modules/explore-analyze-data-with-python?wt.mc_id=studentamb_319033)  
+3. [Introduction to machine learning](https://learn.microsoft.com/training/modules/introduction-to-machine-learning?wt.mc_id=studentamb_319033)  
+4. [Introduction to data for machine learning](https://learn.microsoft.com/training/modules/introduction-to-data-for-machine-learning?wt.mc_id=studentamb_319033)
 
 #### Software Development
 
@@ -61,23 +69,8 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 
 Other resource: [JavaScript Tutorial](https://javascript.info) Recommended topics: JavaScript Fundamentals, Code Quality, Objects: the basics, Data types
 
-#### Data Science
-
-1. [Fundamental AI Concepts](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/?wt.mc_id=studentamb_319033)  
-2. [Explore and analyze data with Python](https://learn.microsoft.com/training/modules/explore-analyze-data-with-python?wt.mc_id=studentamb_319033)  
-3. [Introduction to machine learning](https://learn.microsoft.com/training/modules/introduction-to-machine-learning?wt.mc_id=studentamb_319033)  
-4. [Introduction to data for machine learning](https://learn.microsoft.com/training/modules/introduction-to-data-for-machine-learning?wt.mc_id=studentamb_319033)
-
 
 ## Week 3
-
-#### Software Development
-Note: This week does not contain Microsoft Modules. Please go through the tutorial on TypesCript
-
-1. [TypeScript for the New Programmer](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
-2. [TypeScript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-
-Try [TypeScript Tool](https://www.typescriptlang.org/) 
 
 #### Data Science
 
@@ -86,7 +79,23 @@ Try [TypeScript Tool](https://www.typescriptlang.org/)
 3. [Refine and test machine learning models](https://learn.microsoft.com/training/modules/test-machine-learning-models?wt.mc_id=studentamb_319033)  
 4. [Train and evaluate regression models](https://learn.microsoft.com/training/modules/train-evaluate-regression-models?wt.mc_id=studentamb_319033)
 
+#### Software Development
+Note: This week does not contain Microsoft Modules. Please go through the tutorial on TypesCript
+
+1. [TypeScript for the New Programmer](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
+2. [TypeScript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+
+Please try [TypeScript Tool](https://www.typescriptlang.org/) 
+
+
 ## Week 4
+
+#### Data Science
+
+1. [Create and understand classification models in machine learning](https://learn.microsoft.com/training/modules/understand-classification-machine-learning?wt.mc_id=studentamb_319033)  
+2. [Select and customize architectures and hyperparameters using random forest](https://learn.microsoft.com/training/modules/machine-learning-architectures-and-hyperparameters?wt.mc_id=studentamb_319033)  
+3. [Confusion matrix and data imbalances](https://learn.microsoft.com/training/modules/machine-learning-confusion-matrix?wt.mc_id=studentamb_319033)  
+4. [Measure and optimize model performance with ROC and AUC](https://learn.microsoft.com/training/modules/optimize-model-performance-roc-auc?wt.mc_id=studentamb_319033)
 
 #### Software Development
 Note: This week does not contain Microsoft Modules. Please go through the tutorial on TypesCript
@@ -97,21 +106,7 @@ Note: This week does not contain Microsoft Modules. Please go through the tutori
 5. [Classes](https://www.typescriptlang.org/docs/handbook/2/classes.html)
 
 
-#### Data Science
-
-1. [Create and understand classification models in machine learning](https://learn.microsoft.com/training/modules/understand-classification-machine-learning?wt.mc_id=studentamb_319033)  
-2. [Select and customize architectures and hyperparameters using random forest](https://learn.microsoft.com/training/modules/machine-learning-architectures-and-hyperparameters?wt.mc_id=studentamb_319033)  
-3. [Confusion matrix and data imbalances](https://learn.microsoft.com/training/modules/machine-learning-confusion-matrix?wt.mc_id=studentamb_319033)  
-4. [Measure and optimize model performance with ROC and AUC](https://learn.microsoft.com/training/modules/optimize-model-performance-roc-auc?wt.mc_id=studentamb_319033)
-
 ## Week 5
-
-#### Software Development
-
-1. [Introduction to Transact-SQL](https://learn.microsoft.com/training/modules/introduction-to-transact-sql?wt.mc_id=studentamb_319033)
-2. [Sort and filter results in T-SQL](https://learn.microsoft.com/training/modules/sort-filter-queries?wt.mc_id=studentamb_319033)
-3. [Combine multiple tables with JOINs in T-SQL](https://learn.microsoft.com/training/modules/query-multiple-tables-with-joins?wt.mc_id=studentamb_319033)
-4. [Modify data with T-SQL](https://learn.microsoft.com/training/modules/modify-data-with-transact-sql?wt.mc_id=studentamb_319033)
 
 #### Data Science
 
@@ -120,8 +115,20 @@ Note: This week does not contain Microsoft Modules. Please go through the tutori
 3. [Introduction to TensorFlow using Keras](https://learn.microsoft.com/en-us/training/modules/intro-machine-learning-keras/)  
 4. [Introduction to computer vision with TensorFlow](https://learn.microsoft.com/en-us/training/modules/intro-computer-vision-tensorflow/)
 
+#### Software Development
+
+1. [Introduction to Transact-SQL](https://learn.microsoft.com/training/modules/introduction-to-transact-sql?wt.mc_id=studentamb_319033)
+2. [Sort and filter results in T-SQL](https://learn.microsoft.com/training/modules/sort-filter-queries?wt.mc_id=studentamb_319033)
+3. [Combine multiple tables with JOINs in T-SQL](https://learn.microsoft.com/training/modules/query-multiple-tables-with-joins?wt.mc_id=studentamb_319033)
+4. [Modify data with T-SQL](https://learn.microsoft.com/training/modules/modify-data-with-transact-sql?wt.mc_id=studentamb_319033)
+
 
 ## Week 6
+
+#### Data Science
+
+1. [Go beyond Keras: Customize with TensorFlow](https://learn.microsoft.com/en-us/training/modules/intro-machine-learning-keras/)  
+2. [Train and evaluate deep learning models](https://learn.microsoft.com/en-us/training/modules/train-evaluate-deep-learn-models/)
 
 #### Software Development
 
@@ -132,10 +139,6 @@ Note: This week does not contain Microsoft Modules. Please go through the tutori
 5. [Build a containerized web application with Docker](https://learn.microsoft.com/training/modules/intro-to-containers?wt.mc_id=studentamb_319033)
 6. [Host a web application with Azure App Service](https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/?wt.mc_id=studentamb_319033)
 
-#### Data Science
-
-1. [Go beyond Keras: Customize with TensorFlow](https://learn.microsoft.com/en-us/training/modules/intro-machine-learning-keras/)  
-2. [Train and evaluate deep learning models](https://learn.microsoft.com/en-us/training/modules/train-evaluate-deep-learn-models/)
 
 
 ## Submission
@@ -144,8 +147,8 @@ To complete Phase 1 and submit evidence of your completion:
 1. Complete all the Microsoft Learn modules listed in the schedule above
 2. Download all the key tools listed below
 3. Log in to your Microsoft account and take a full-page screenshot of the Microsoft Learn collection that you completed (please complete all the modules if you haven't already).
-- [Software Development collection](https://learn.microsoft.com/en-nz/collections/6peka7t3gq7don)
 - [Data Science collection](https://learn.microsoft.com/en-nz/collections/jqgrc3t60xgygk)
+- [Software Development collection](https://learn.microsoft.com/en-nz/collections/6peka7t3gq7don)
 - Note: To take a full-page screenshot, you can use [this Chrome extension](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj) or if you are using Edge or Firefox, you can press Ctrl+Shift+S and then select "Capture/Save full page".
 4. Submit this form by 11:59pm, Sunday 18 May: [MSA 2025 Phase 1 Submission]()
 
