@@ -1,8 +1,6 @@
-# 2024 Phase 1
+# 2025 Phase 1
 
-Welcome to Phase 1 of the 2024 MSA programme! This year, the programme is split into two streams (Software Development and Data Science), and Phase 1 consists of Microsoft Learn modules for each stream. For more information, please visit the following links:
-- [2024 Programme Launch](https://www.youtube.com/watch?v=nUO7uQpackU), a YouTube video that provides an overview of this year's programme
-- [Frequently asked questions and answers](https://nzmsa.vercel.app/Faq) about the programme
+Welcome to Phase 1 of the 2025 MSA programme! The programme is split into two streams (Software Development and Data Science), and Phase 1 consists of Microsoft Learn modules for each stream. 
 
 The expected workload for Phase 1 of each stream is 3-4 hours per week. As such, we recommend that you use the schedule below to spread out your workload and not try to complete everything in one week.
 
@@ -18,7 +16,7 @@ Contents:
 ## Getting Started
 
 To get started with Phase 1:
-1. [Sign up for the 2024 MSA programme](https://forms.office.com/r/YSPV9Rc04R)
+1. [Sign up for the 2025 MSA programme](https://forms.office.com/r/wyxaGwABEM)
 - Note: Please sign up for the programme using the same email as the Microsoft account you want to use for the programme (if you already have one)
 2. [Create a Microsoft account](https://account.microsoft.com/account/Account) if you don't already have one 
 - Note: Please create an account using the same email that you signed up for the programme with
@@ -30,8 +28,8 @@ To get started with Phase 1:
 The schedule is split into six weeks, and each week is split into the two streams (Software Development and Data Science).
 
 All the Microsoft Learn modules listed below can be found in these Microsoft Learn collections for easy access and completion tracking:
-- [Software Development collection](https://learn.microsoft.com/en-us/collections/4m8nhoyrwj1555?wt.mc_id=studentamb_319033)
-- [Data Science collection](https://learn.microsoft.com/collections/n2kyanp2128q50?wt.mc_id=studentamb_319033)
+- [Software Development collection]()
+- [Data Science collection]()
 
 ## Week 1
 
@@ -46,8 +44,10 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 
 #### Data Science
 
-1. [Introduction to GitHub in Visual Studio Code](https://learn.microsoft.com/training/modules/introduction-to-github-visual-studio-code?wt.mc_id=studentamb_319033)
-2. [Python for beginners](https://learn.microsoft.com/training/paths/beginner-python?wt.mc_id=studentamb_319033) (this is a path consisting of several modules - please complete all modules listed in the path)
+1. [Get started building with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/?wt.mc_id=studentamb_319033)  
+2. [Get data in Power BI](https://learn.microsoft.com/training/modules/get-data?wt.mc_id=studentamb_319033)  
+3. [Clean, transform, and load data in Power BI](https://learn.microsoft.com/training/modules/clean-data-power-bi?wt.mc_id=studentamb_319033)
+
 
 ## Week 2
 
@@ -63,12 +63,11 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 
 #### Data Science
 
-1. [Explore and analyze data with Python](https://learn.microsoft.com/training/modules/explore-analyze-data-with-python?wt.mc_id=studentamb_319033)
-2. [Data collection and manipulation](https://learn.microsoft.com/training/modules/collect-manipulate-data-python-nasa?wt.mc_id=studentamb_319033)
-- Note: The Excel file link in the module above is broken (as of 16/5/23). Please use [this OneDrive link](https://1drv.ms/x/s!AhUTdgNym7JMniQMzHt9Bu-1_McY?e=Ez8arx) to access the dataset instead.
-3. [Get started with AI on Azure](https://learn.microsoft.com/training/modules/get-started-ai-fundamentals?wt.mc_id=studentamb_319033)
-4. [Introduction to machine learning](https://learn.microsoft.com/training/modules/introduction-to-machine-learning?wt.mc_id=studentamb_319033)
-5. [Introduction to rocket launches](https://learn.microsoft.com/training/modules/introduction-rocket-launch-nasa?wt.mc_id=studentamb_319033)
+1. [Fundamental AI Concepts](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/?wt.mc_id=studentamb_319033)  
+2. [Explore and analyze data with Python](https://learn.microsoft.com/training/modules/explore-analyze-data-with-python?wt.mc_id=studentamb_319033)  
+3. [Introduction to machine learning](https://learn.microsoft.com/training/modules/introduction-to-machine-learning?wt.mc_id=studentamb_319033)  
+4. [Introduction to data for machine learning](https://learn.microsoft.com/training/modules/introduction-to-data-for-machine-learning?wt.mc_id=studentamb_319033)
+
 
 ## Week 3
 
@@ -82,10 +81,10 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 
 #### Data Science
 
-1. [Introduction to data for machine learning](https://learn.microsoft.com/training/modules/introduction-to-data-for-machine-learning?wt.mc_id=studentamb_319033)
-2. [Create and understand classification models in machine learning](https://learn.microsoft.com/training/modules/understand-classification-machine-learning?wt.mc_id=studentamb_319033)
-3. [Build classical machine learning models with supervised learning](https://learn.microsoft.com/training/modules/introduction-to-classical-machine-learning?wt.mc_id=studentamb_319033)
-4. [Train and understand regression models in machine learning](https://learn.microsoft.com/training/modules/understand-regression-machine-learning?wt.mc_id=studentamb_319033)
+1. [Build classical machine learning models with supervised learning](https://learn.microsoft.com/training/modules/introduction-to-classical-machine-learning?wt.mc_id=studentamb_319033)  
+2. [Train and understand regression models in machine learning](https://learn.microsoft.com/training/modules/understand-regression-machine-learning?wt.mc_id=studentamb_319033)  
+3. [Refine and test machine learning models](https://learn.microsoft.com/training/modules/test-machine-learning-models?wt.mc_id=studentamb_319033)  
+4. [Train and evaluate regression models](https://learn.microsoft.com/training/modules/train-evaluate-regression-models?wt.mc_id=studentamb_319033)
 
 ## Week 4
 
@@ -99,11 +98,10 @@ Note: This week contains fewer modules than others, so we recommend you use this
 
 #### Data Science
 
-1. [Build a machine learning model](https://learn.microsoft.com/training/modules/machine-learning-model-nasa?wt.mc_id=studentamb_319033)
-2. [Refine and test machine learning models](https://learn.microsoft.com/training/modules/test-machine-learning-models?wt.mc_id=studentamb_319033)
-3. [Train and evaluate classification models](https://learn.microsoft.com/training/modules/train-evaluate-classification-models?wt.mc_id=studentamb_319033)
-4. [Train and evaluate regression models](https://learn.microsoft.com/training/modules/train-evaluate-regression-models?wt.mc_id=studentamb_319033)
-5. [Select and customize architectures and hyperparameters using random forest](https://learn.microsoft.com/training/modules/machine-learning-architectures-and-hyperparameters?wt.mc_id=studentamb_319033)
+1. [Create and understand classification models in machine learning](https://learn.microsoft.com/training/modules/understand-classification-machine-learning?wt.mc_id=studentamb_319033)  
+2. [Select and customize architectures and hyperparameters using random forest](https://learn.microsoft.com/training/modules/machine-learning-architectures-and-hyperparameters?wt.mc_id=studentamb_319033)  
+3. [Confusion matrix and data imbalances](https://learn.microsoft.com/training/modules/machine-learning-confusion-matrix?wt.mc_id=studentamb_319033)  
+4. [Measure and optimize model performance with ROC and AUC](https://learn.microsoft.com/training/modules/optimize-model-performance-roc-auc?wt.mc_id=studentamb_319033)
 
 ## Week 5
 
@@ -117,11 +115,11 @@ Note: This week contains fewer modules than others, so we recommend you use this
 
 #### Data Science
 
-1. [Confusion matrix and data imbalances](https://learn.microsoft.com/training/modules/machine-learning-confusion-matrix?wt.mc_id=studentamb_319033)
-2. [Measure and optimize model performance with ROC and AUC](https://learn.microsoft.com/training/modules/optimize-model-performance-roc-auc?wt.mc_id=studentamb_319033)
-3. [Introduction to Azure Machine Learning](https://learn.microsoft.com/training/modules/intro-to-azure-ml?wt.mc_id=studentamb_319033)
-4. [Explore Azure Machine Learning workspace resources and assets](https://learn.microsoft.com/training/modules/explore-azure-machine-learning-workspace-resources-assets?wt.mc_id=studentamb_319033)
-5. [Train a machine learning model with Azure Machine Learning](https://learn.microsoft.com/training/modules/train-local-model-with-azure-mls?wt.mc_id=studentamb_319033)
+1. [Train and evaluate classification models](https://learn.microsoft.com/training/modules/train-evaluate-classification-models?wt.mc_id=studentamb_319033)  
+2. [Train and evaluate clustering models](https://learn.microsoft.com/en-us/training/modules/train-evaluate-cluster-models)  
+3. [Introduction to TensorFlow using Keras](https://learn.microsoft.com/en-us/training/modules/intro-machine-learning-keras/)  
+4. [Introduction to computer vision with TensorFlow](https://learn.microsoft.com/en-us/training/modules/intro-computer-vision-tensorflow/)
+
 
 ## Week 6
 
@@ -135,9 +133,9 @@ Note: This week contains fewer modules than others, so we recommend you use this
 
 #### Data Science
 
-1. [Get started building with Power BI](https://learn.microsoft.com/training/modules/get-started-with-power-bi?wt.mc_id=studentamb_319033)
-2. [Get data in Power BI](https://learn.microsoft.com/training/modules/get-data?wt.mc_id=studentamb_319033)
-3. [Clean, transform, and load data in Power BI](https://learn.microsoft.com/training/modules/clean-data-power-bi?wt.mc_id=studentamb_319033)
+1. [Go beyond Keras: Customize with TensorFlow](https://learn.microsoft.com/en-us/training/modules/intro-machine-learning-keras/)  
+2. [Train and evaluate deep learning models](https://learn.microsoft.com/en-us/training/modules/train-evaluate-deep-learn-models/)
+
 
 ## Submission
 
@@ -148,7 +146,7 @@ To complete Phase 1 and submit evidence of your completion:
 - [Software Development collection](https://learn.microsoft.com/en-nz/users/msa-nz/collections/4m8nhoyrwj1555)
 - [Data Science collection](https://learn.microsoft.com/en-nz/users/msa-nz/collections/n2kyanp2128q50)
 - Note: To take a full-page screenshot, you can use [this Chrome extension](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj) or if you are using Edge or Firefox, you can press Ctrl+Shift+S and then select "Capture/Save full page".
-4. Submit this form by 11:59pm, Sunday 26 May: [MSA 2024 Phase 1 Submission](https://forms.office.com/r/K6K6VqpFyu)
+4. Submit this form by 11:59pm, Sunday 18 May: [MSA 2025 Phase 1 Submission]()
 
 ## Key Tools
 
@@ -185,12 +183,9 @@ Here is a list of all the key tools you will need for the programme, we recommen
 
 - [Python](https://www.python.org/downloads)
   - A widely used programming language, particularly in Data Science
-  - After downloading Python, please complete this tutorial to set up VS Code: [Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
+  - After downloading Python, please complete this tutorial to set up VS Code: [Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)  
 - [VS Code - Data Science Tutorial](https://code.visualstudio.com/docs/datascience/data-science-tutorial)
   - After completing Microsoft Learn modules about VS Code, we recommend that you complete the tutorial above to check that all your tools are working correctly, and install/fix any that are missing or not working
-- [Azure Machine Learning](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-setup-vs-code?view=azureml-api-2)
-  - An Azure service for doing machine learning in the cloud
-  - After completing Microsoft Learn modules about Azure Machine Learning, we recommend that you set up VS Code to use Azure Machine Learning using the link above
 - [Power BI](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
   - A Microsoft tool for creating dashboards and visualisations
 
