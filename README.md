@@ -8,7 +8,7 @@ The expected workload for Phase 1 of each stream is 3-4 hours per week. As such,
 In Phase 1, you were encouraged to explore both streams (Data Science and Software Development) to help you better understand your interests and strengths.
 However, as we move into Phase 2, you will be required to choose only one stream, and you can only submit your work for that selected stream.
 After completing the Phase 1 training, you should have a clearer idea of which stream you'd like to focus on moving forward.
-When you submit your Phase1, please only submit the Phase 1 modules screenshot that corresponds to your chosen Phase 2 stream.
+When submitting your Phase 1, please upload a full-page screenshot of the Microsoft Learn collection that corresponds to your selected Phase 2 stream only.
 
 Contents:
 - [Getting Started](https://github.com/NZMSA/2025-Phase-1#getting-started)
@@ -159,7 +159,7 @@ To complete Phase 1 and submit evidence of your completion:
 **Please Note**: In Phase 1, you were encouraged to explore both streams (Data Science and Software Development) to help you better understand your interests and strengths.
 However, as we move into Phase 2, you will be required to choose only one stream, and you can only submit your work for that selected stream.
 After completing the Phase 1 training, you should have a clearer idea of which stream you'd like to focus on moving forward.
-Please only submit the Phase 1 modules screenshot that corresponds to your chosen Phase 2 stream.
+Please upload a full-page screenshot of the Microsoft Learn collection that corresponds to your selected Phase 2 stream only.
 
 ## Key Tools
 
@@ -183,7 +183,7 @@ Here is a list of all the key tools you will need for the programme, we recommen
   - For backend web development
   - After downloading Node.js, please complete this tutorial to set up VS Code: [Node.js in VS Code](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial)
   - Note: The Node.js Package Manager ([npm](https://www.npmjs.com)) is also installed with Node.js, which allows you to use code created by other developers in your own code
-- [React](https://create-react-app.dev/docs/getting-started)
+- [React](https://react.dev/learn)
   - For frontend web development
   - After downloading React, please complete this tutorial to set up VS Code: [React in VS Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
   - Note: You do not need to download anything else if you have downloaded Node.js, but we recommend you follow the steps in the React link above to ensure everything is working correctly
