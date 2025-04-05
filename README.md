@@ -5,7 +5,7 @@ Welcome to Phase 1 of the 2025 MSA programme! The programme is split into two st
 The expected workload for Phase 1 of each stream is 3-4 hours per week. As such, we recommend that you use the schedule below to spread out your workload and not try to complete everything in one week.
 
 **Please Note**: 
-In Phase 1, you were encouraged to explore both streams (Data Science and Software Engineering) to help you better understand your interests and strengths.
+In Phase 1, you were encouraged to explore both streams (Data Science and Software Development) to help you better understand your interests and strengths.
 However, as we move into Phase 2, you will be required to choose only one stream, and you can only submit your work for that selected stream.
 After completing the Phase 1 training, you should have a clearer idea of which stream you'd like to focus on moving forward.
 When you submit your Phase1, please only submit the Phase 1 modules screenshot that corresponds to your chosen Phase 2 stream.
@@ -156,7 +156,7 @@ To complete Phase 1 and submit evidence of your completion:
 - Note: To take a full-page screenshot, you can use [this Chrome extension](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj) or if you are using Edge or Firefox, you can press Ctrl+Shift+S and then select "Capture/Save full page".
 4. Submit this form by 11:59pm, Sunday 18 May: [MSA 2025 Phase 1 Submission](https://forms.office.com/r/Lg2y9n4qdX)
 
-**Please Note**: In Phase 1, you were encouraged to explore both streams (Data Science and Software Engineering) to help you better understand your interests and strengths.
+**Please Note**: In Phase 1, you were encouraged to explore both streams (Data Science and Software Development) to help you better understand your interests and strengths.
 However, as we move into Phase 2, you will be required to choose only one stream, and you can only submit your work for that selected stream.
 After completing the Phase 1 training, you should have a clearer idea of which stream you'd like to focus on moving forward.
 Please only submit the Phase 1 modules screenshot that corresponds to your chosen Phase 2 stream.
