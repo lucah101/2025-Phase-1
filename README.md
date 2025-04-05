@@ -80,7 +80,7 @@ Other resource: [JavaScript Tutorial](https://javascript.info) Recommended topic
 4. [Train and evaluate regression models](https://learn.microsoft.com/training/modules/train-evaluate-regression-models?wt.mc_id=studentamb_319033)
 
 #### Software Development
-Note: This week does not contain Microsoft Modules. Please go through the tutorial on TypesCript
+Note: This week does not contain Microsoft Modules. Please go through the tutorial on TypeScript
 
 1. [TypeScript for the New Programmer](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 2. [TypeScript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
@@ -98,7 +98,7 @@ Please try [TypeScript Tool](https://www.typescriptlang.org/)
 4. [Measure and optimize model performance with ROC and AUC](https://learn.microsoft.com/training/modules/optimize-model-performance-roc-auc?wt.mc_id=studentamb_319033)
 
 #### Software Development
-Note: This week does not contain Microsoft Modules. Please go through the tutorial on TypesCript
+Note: This week does not contain Microsoft Modules. Please go through the tutorial on TypeScript
 1. [The Basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
 2. [Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 3. [More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html)
@@ -150,7 +150,12 @@ To complete Phase 1 and submit evidence of your completion:
 - [Data Science collection](https://learn.microsoft.com/en-nz/collections/jqgrc3t60xgygk)
 - [Software Development collection](https://learn.microsoft.com/en-nz/collections/6peka7t3gq7don)
 - Note: To take a full-page screenshot, you can use [this Chrome extension](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj) or if you are using Edge or Firefox, you can press Ctrl+Shift+S and then select "Capture/Save full page".
-4. Submit this form by 11:59pm, Sunday 18 May: [MSA 2025 Phase 1 Submission]()
+4. Submit this form by 11:59pm, Sunday 18 May: [MSA 2025 Phase 1 Submission](https://forms.office.com/r/Lg2y9n4qdX)
+
+**Please Note**: In Phase 1, you were encouraged to explore both streams (Data Science and Software Engineering) to help you better understand your interests and strengths.
+However, as we move into Phase 2, you will be required to choose only one stream, and you can only submit your work for that selected stream.
+After completing the Phase 1 training, you should have a clearer idea of which stream you'd like to focus on moving forward.
+Please only submit the Phase 1 modules screenshot that corresponds to your chosen Phase 2 stream.
 
 ## Key Tools
 
