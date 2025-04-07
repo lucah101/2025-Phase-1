@@ -10,6 +10,11 @@ However, as we move into Phase 2, you will be required to choose only one stream
 After completing the Phase 1 training, you should have a clearer idea of which stream you'd like to focus on moving forward.
 When submitting your Phase 1, please upload a full-page screenshot of the Microsoft Learn collection that corresponds to your selected Phase 2 stream only.
 
+**Unsure about your eligibility for Phase 2 or Phase 3?**
+Please take a moment to complete the eligibility check linked below.
+It takes less than a minute and will help you confirm whether you meet the requirements to proceed.
+[Click here to complete the eligibility check](https://docs.google.com/forms/d/e/1FAIpQLSf0__dyF6NmFmiOlOH-55UVnNQThOsTTk7OIEExfVLvxVi7aA/viewform)
+
 Contents:
 - [Getting Started](https://github.com/NZMSA/2025-Phase-1#getting-started)
 - [Schedule](https://github.com/NZMSA/2025-Phase-1#schedule)
