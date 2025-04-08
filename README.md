@@ -4,16 +4,18 @@ Welcome to Phase 1 of the 2025 MSA programme! The programme is split into two st
 
 The expected workload for Phase 1 of each stream is 3-4 hours per week. As such, we recommend that you use the schedule below to spread out your workload and not try to complete everything in one week.
 
-**Please Note**: 
-In Phase 1, you were encouraged to explore both streams (Data Science and Software Development) to help you better understand your interests and strengths.
-However, as we move into Phase 2, you will be required to choose only one stream, and you can only submit your work for that selected stream.
-After completing the Phase 1 training, you should have a clearer idea of which stream you'd like to focus on moving forward.
-When submitting your Phase 1, please upload a full-page screenshot of the Microsoft Learn collection that corresponds to your selected Phase 2 stream only.
+**Before you begin Phase 1**: Please make sure to watch the [recording of the Launch Night](https://msit.events.teams.microsoft.com/event/63ed555e-4f5c-486e-bc92-f6a8b41c667b@72f988bf-86f1-41af-91ab-2d7cd011db47?vod&presenterKey=fbfb9204-b46a-4138-8e3e-5be2676c58a9) if you missed the live session.
 
 **Unsure about your eligibility for Phase 2 or Phase 3?**
 Please take a moment to complete the eligibility check linked below.
 It takes less than a minute and will help you confirm whether you meet the requirements to proceed.
 [Click here to complete the eligibility check](https://docs.google.com/forms/d/e/1FAIpQLSf0__dyF6NmFmiOlOH-55UVnNQThOsTTk7OIEExfVLvxVi7aA/viewform)
+
+**Please Note**: 
+In Phase 1, you were encouraged to explore both streams (Data Science and Software Development) to help you better understand your interests and strengths.
+However, as we move into Phase 2, you will be required to choose only one stream, and you can only submit your work for that selected stream.
+After completing the Phase 1 training, you should have a clearer idea of which stream you'd like to focus on moving forward.
+When submitting your Phase 1, please upload a full-page screenshot of the Microsoft Learn collection that corresponds to your selected Phase 2 stream only.
 
 Contents:
 - [Getting Started](https://github.com/NZMSA/2025-Phase-1#getting-started)
